@@ -1,0 +1,8 @@
+{
+  "name": "Patinetes Eléctricos",
+  "short_name": "Patinetes El",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7fafc",
+  "theme_color": "#1f5f8b"
+}
